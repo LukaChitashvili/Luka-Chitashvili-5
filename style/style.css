@@ -1,27 +1,27 @@
 body{
-padding-top: 54px;
-padding-left: 52px;
+	padding-top: 54px;
+	padding-left: 52px;
 }
 
 .logo{
 
-display: inline-block;
-vertical-align: middle;
+	display: inline-block;
+	vertical-align: middle;
 }
 
 nav{
 
-display: inline-block;
-vertical-align: middle;
-margin-left: 60px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 60px;
 
 }
 
 
 li{
-display: inline-block;
-margin-right: 84px;
-color: #8D81FF;
+	display: inline-block;
+	margin-right: 84px;
+	color: #8D81FF;
 
 }
 
@@ -30,12 +30,86 @@ color: #8D81FF;
 }
 
 a{
-	font-family: FiraGO;
-	font-size: 26px;
-	font-weight: 700;
-	line-height: 31px;
-	letter-spacing: 0em;
-	text-align: left;
-	color: #8D81FF;
+		
+		font-size: 26px;
+		font-weight: 700;
+		line-height: 31px;
+		letter-spacing: 0em;
+		text-align: left;
+		color: #8D81FF;
 
 	}
+
+
+.container{
+	width: 1052px;
+	margin: 0 auto;
+	margin-left: ;
+}
+
+.banner{
+	margin-top: 97px;
+	width: 100%;
+
+}
+
+.sec-2 {
+	margin-top: 120px;
+
+}
+
+.paragraph{
+	margin-bottom: 26px;
+}
+
+
+h1 {
+	color: #4E6FAE;	
+    font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 18px;
+}
+
+h2 {
+	color: #4E6FAE;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+
+.line {
+	width: 2px;
+	height: 24px;
+	background-color: #5012D5;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 18px;
+}
+
+.box-1{
+width: 500px;
+height: 192px;
+background-color: #E7E7E7;
+vertical-align: middle;
+display: inline-block;
+margin-right: 48px;
+
+
+}
+
+.box-2{
+width: 500px;
+height: 192px;
+background-color: #E7E7E7;
+vertical-align: middle;
+display: inline-block;
+
+}
