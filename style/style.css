@@ -44,7 +44,7 @@ a{
 .container{
 	width: 1052px;
 	margin: 0 auto;
-	margin-left: ;
+	margin-left:194px ;
 }
 
 .banner{
@@ -112,4 +112,89 @@ background-color: #E7E7E7;
 vertical-align: middle;
 display: inline-block;
 
+}
+
+
+p{
+
+padding-top: 21px;
+padding-left: 23px;
+
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+color: #3F4145;
+}
+
+.text2{
+margin-left: 140px;
+margin-top: -105px;
+font-family: Helvetica Neue LT GEO;
+font-size: 18px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+width: 335px;
+height: 95px;
+color: #7E8898;
+width: 335px;
+
+}
+
+.image2{
+padding-left: 36px;
+padding-top: 30px;
+vertical-align: middle;
+
+
+}
+
+.image1{
+
+	padding-left: 36px;
+	padding-top: 30px;
+	vertical-align: middle;
+
+}
+
+
+.text3{
+
+width: 335px;
+color:#7E8898;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: -110px;
+margin-left: 146px;
+}
+
+.facebook{
+margin-top: 91px;
+
+
+}
+
+
+
+.youtube{
+
+margin-left: 82px;
+
+
+}
+
+.vertical-line{
+width: 2px;
+height: 48px;
+background-color: #5012D5;
+display: inline-block;
+margin-left: -120px;
 }
